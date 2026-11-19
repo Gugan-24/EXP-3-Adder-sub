@@ -20,7 +20,11 @@ half_add_sub_tb.v	Stimulus and VCD generation
 ### Verilog Program
 ```
 ```
+<img width="1592" height="802" alt="fun" src="https://github.com/user-attachments/assets/16cd50f0-7d0a-4a51-b08b-daa93f71ec6b" />
+
 ### Testbench Program
+<img width="1912" height="1072" alt="tb" src="https://github.com/user-attachments/assets/f44a5cef-8e4a-4fa8-b0f1-58c617736328" />
+
 
 
 ### Truth Table
@@ -84,6 +88,7 @@ The Half Adder and Half Subtractor were realized using Verilog HDL:
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 
 ### Output
+<img width="1837" height="1022" alt="output" src="https://github.com/user-attachments/assets/25bf324a-7499-4876-80d1-101f2be89183" />
 
 
 ### Viva-Voce Questions
